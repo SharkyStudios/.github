@@ -16,7 +16,7 @@
     src="https://img.shields.io/badge/Sharky_Weather-Click_Here-blue"/></a>
 </div>
 
-Welcome to the Project Sharky WEB repository! This project is primarily built with HTML, CSS, and JavaScript.
+Welcome to Sharky studios! This project is primarily built with HTML, CSS, JavaScript, And APK.
 
 ## Table of Contents
 
@@ -30,9 +30,9 @@ Project Sharky WEB is a web-based application designed to [Express are game Proj
 
 ## Features
 
-- Feature 1: [name tags]
-- Feature 2: [chat with the owner]
-- Feature 3: [request web and game updates]
+- Feature 1: name tags
+- Feature 2: chat with the owner
+- Feature 3: request web and game updates
 
 ## Installation
 
