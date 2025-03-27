@@ -15,5 +15,3 @@
   <a href="https://SharkyStudios.github.io/Project-Sharky-WEB/Weather.html"><img alt="Sharky Weather"
     src="https://img.shields.io/badge/Sharky_Weather-Click_Here-blue"/></a>
 </div>
-
-Welcome to Sharky studios! This project is primarily built with HTML, CSS, JavaScript, And APK.
